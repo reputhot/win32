@@ -26,6 +26,7 @@ Specifies that a running instances of the task is stopped at the end of the repe
 ```
 
 The **StopAtDurationEnd** element is defined by the [**repetitionType**](taskschedulerschema-repetitiontype-complextype.md) complex type.
+This field is applicable only if repetitions are set.
 
 ## Parent element
 
